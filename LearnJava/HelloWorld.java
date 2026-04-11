@@ -5,7 +5,7 @@ public class HelloWorld extends Object {
         s = "Hello World"; 
     }
     public void sayHello() { //an instance method
-        System.out.printIn(s) ; 
+        /*System.out.printIn(s) ; */
     }
     public static void main(String[] args) { // static class method
         HelloWorld hello = new HelloWorld(); // INSTANTIATION
