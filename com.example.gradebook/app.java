@@ -28,8 +28,9 @@ public class App {
         GradeBook gb; 
         Scanner s=new Scanner(System.in);
         System.out.println("insert student last name and id");
-        gb=new GradeBook(s.next(), s.next(), s.next());
-         
+        gb=new GradeBook(s.next(), s.next(), s.nextInt());
+        System.out.println
+
     }
 }
 
