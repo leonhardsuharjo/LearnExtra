@@ -27,4 +27,10 @@ public class NumCheck {
         if (n%2!=0) System.out.println("odd");
         else System.out.println("even");
     }
+    
+    public static void main(String[], args){
+        Scanner s=new Scanner(System.in); 
+        System.out.println(); /* continue code */
+    }
+
 }

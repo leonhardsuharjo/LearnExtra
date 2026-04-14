@@ -10,7 +10,7 @@ Categories of data = primitive and non primitive
         refer to objects rather than storing values directly, created by programmer
         stored in HEAP 
 
-KEYWORDS = modifier, class, method, instance 
+KEYWORDS = modifier, class, method, instance, variables, objects, attribut
 
 Java constants 
     specified by modifier "final" 
@@ -68,10 +68,11 @@ multiplication has lower priority than "-"", when " -variable "
     all attributes inside public class should be private 
 
 *3 STEPS OF INFORMATION HIDING* == to be done by creator programmer  
-    1. engineering part = attribute must be private 
-    2. understand if its class or instance method -- instance is private  
+    1. engineering part = attribute must be PRIVATE 
+    2. understand if its CLASS or INSTANCE method -- instance is private  
         understanding if the copy is only one or is it shared or duplicated 
-    3. understand if its a constant or variable 
+        class = ONE copy, instance = multiple copies for multiple instance
+    3. understand if its a CONSTANT or VARIABLE 
         if its constant, use final as it is unchangeable 
 
 For loop 
@@ -110,7 +111,9 @@ By default, the object has built in functions
     example => 
         public class App {} #import app library
 
+always add CONSTRUCTOR to a PRIVATE FINAL
 
+when no class is specified ==> it is a DEFAULT access modifier, but its not always the case 
 
 
 */
