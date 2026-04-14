@@ -16,10 +16,21 @@ public class GradeBook {
     private final String stdId; 
     private final static Subject sub=new Subject("OOP"); 
     
-    public GradeBook (String firstName, String lastName, String stdId){
+    public GradeBook (String firstName, String lastName, String id){
         this.firstName = firstName;
-
+        this.lastName = lastName;
+        stdId=id;
     }
+
+    public String getFirstName(){return firstName;}
+    public String getLastName(){return lastName;}
+    public String getStdId(){return stdId;}
+
+    @Override /* to check if overriding is really done, to avoid logical error or semantic error in programming */
+    public String toString(){
+        return super.toString() + "welcome to " + sub.getName() + " student " + getFirstName() + " "+ getLastName()+ " " + getStdId();
+    }
+
 }
 
 class Subject {
@@ -36,6 +47,8 @@ class Subject {
         if (grade >= 0)&& (grade < 32) this.grade = grade; 
     }
 
-    
+    public string getName(){
+        return 
+    }
 
 }
