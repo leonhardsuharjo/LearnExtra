@@ -47,8 +47,6 @@ class Subject {
         if (grade >= 0)&& (grade < 32) this.grade = grade; 
     }
 
-    public string getName(){
-        return 
-    }
+    public String getName(){return name;}
 
 }
