@@ -149,8 +149,15 @@ with "static" method on definition of variable, we can use the function on anoth
     we can make a copy, but we cannot invoke a static instance 
     we cannot call instance from a static method
 
-even within the same class, always use get()
+even within the same class, always use get_()
+    example => getCourseName()
     to ensure proper acccess and ENFORCE INFORMation Hiding and security approach 
+
+    the three principles of God 
+        1. always make an attribute private 
+            dont come to exam with protected 
+            because a get or set will just make the private work, so for security always use private 
+            
 
 
 
