@@ -162,7 +162,14 @@ even within the same class, always use get_()
             if u have a constant, then make it final,, because we will avoid error due to someone changing the value 
                 if u enforce this rule, []
 
+Encapsulation and INfo hiding is always orthogonal 
 
+Primitive vs Reference type 
+    an attempt to use an uninitialized local variable causes a compilation error 
+    a variable declared type indicate whether a variable is primitive or reference 
+    total number of primitive types = 8 
+
+Strings in java are objects that are bacled internally by a char array 
 
 */
 
