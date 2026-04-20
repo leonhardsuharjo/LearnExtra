@@ -157,7 +157,10 @@ even within the same class, always use get_()
         1. always make an attribute private 
             dont come to exam with protected 
             because a get or set will just make the private work, so for security always use private 
-            
+        2. instance or class 
+        3. constant or variable 
+            if u have a constant, then make it final,, because we will avoid error due to someone changing the value 
+                if u enforce this rule, []
 
 
 
