@@ -1,6 +1,6 @@
 /* learn java school */
 /*
-lecture 
+lecture april 14 2026 
 
 Categories of data = primitive and non primitive
     - primitive 
@@ -141,11 +141,18 @@ What is instanace member ?
 If we use "Override" on an object it will be error, 
     unless we use public static on the object previously
 
-The two types 
+The two types of METHOD = 
+    the instance 
+    the static 
 
 with "static" method on definition of variable, we can use the function on another java file
     we can make a copy, but we cannot invoke a static instance 
     we cannot call instance from a static method
+
+even within the same class, always use get()
+    to ensure proper acccess and ENFORCE INFORMation Hiding and security approach 
+
+
 
 */
 
