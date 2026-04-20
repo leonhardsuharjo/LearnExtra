@@ -1,5 +1,7 @@
 /* learn java school */
 /*
+lecture 
+
 Categories of data = primitive and non primitive
     - primitive 
         predefined by the language and store simple values directly in memory
@@ -114,7 +116,36 @@ By default, the object has built in functions
 always add CONSTRUCTOR to a PRIVATE FINAL
 
 when no class is specified ==> it is a DEFAULT access modifier, but its not always the case 
+*/
 
+/*
+Lecture April 20 2026 
+
+Composition != inheritance 
+    composition is black box use 
+    because we are accessing from user perspective 
+
+    example of composition -- Gradebook.java file 
+
+an object must match the type
+
+DIfference bween attribute and local variable == 
+    - local variable is never initialized 
+    - attributes are Always initialized 
+        attributes are variables defined in a class 
+
+What is instanace member ? 
+    is created for each member 
+    will exist only if u instantiate the object 
+
+If we use "Override" on an object it will be error, 
+    unless we use public static on the object previously
+
+The two types 
+
+with "static" method on definition of variable, we can use the function on another java file
+    we can make a copy, but we cannot invoke a static instance 
+    we cannot call instance from a static method
 
 */
 

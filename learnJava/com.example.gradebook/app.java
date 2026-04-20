@@ -1,4 +1,5 @@
-package com.example.gradebook; 
+package gradebook; 
+
 import java.util.Scanner;
 
 /* prev draft
