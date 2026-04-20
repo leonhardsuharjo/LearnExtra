@@ -170,6 +170,16 @@ Primitive vs Reference type
     total number of primitive types = 8 
 
 Strings in java are objects that are bacled internally by a char array 
+    example code -- defining a string => 
+        String str = "Geeks";
+        String str = new String("Geeks");
+        str="Best"->str= new String("Best");
+
+    when a string object is made, two objects will be made
+        one in heap and one in string constant pool
+    
+    difference between string and any other objects = 
+        
 
 */
 
