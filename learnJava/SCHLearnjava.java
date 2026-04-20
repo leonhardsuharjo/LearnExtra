@@ -178,8 +178,40 @@ Strings in java are objects that are bacled internally by a char array
     when a string object is made, two objects will be made
         one in heap and one in string constant pool
     
-    difference between string and any other objects = 
+    difference between string and any other objects = []
+    
+    string are immutable, therefore they can be shared 
+        char is a primitive type
+
+    Array is an object,, is a REFERENCE type
+        uses "[]"
+        example code =>
+            String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+            // Accessing the first element (index 0)
+            System.out.println(cars[0]); // Outputs: Volvo
+    
+    how to Make COMMENT in Java = 
+    
+    String as real or fake number =
+        given y = 5 
+            y+2 = 52,, not 7
+        however 
+            "y+2= "+ (y+2) // will give 7 
+    
+    Default CONSTRUCTOR 
+        Example in Gradebook.java => Gradebook{}
+        default constructor will do nothing but calling the superclass 
+        when we dont have default constructor == when we dont define any constrctor 
+            we can define many constructor
+    
+        what if no constructor with any parameter 
+            when we define a superclass it will be error 
+            therefore need to explicitly introduce a constructor 
         
+        a default constructor shall have no parameters 
+            therefore use keyword "extend" 
+
+
 
 */
 
