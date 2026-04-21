@@ -244,20 +244,30 @@ new changes to code java folder
             Account a; 
             Scanner in; 
 
-            System.out.println("insert holder first and last name and id"); 
-            Person p=new Person(in.next(), in.next(), in.nextInt()); 
-            System.out.println("insert account id and type  "); 
-            a=new Account (in.nextInt(), in.next(), p); 
-            System.out.println(a); 
+            for (int c=0; c<1; c++){
+                System.out.println("insert holder first and last name and id"); 
+                Person p=new Person(in.next(), in.next(), in.nextInt()); 
+                System.out.println("insert account id and type  "); 
+                a[c]=new Account (in.nextInt(), in.next(), p); 
+                System.out.println(a); 
+            }
+
+            for (Account b: a) System.out.println(b);
+            a[1].deposit(1000); 
+            a[2].withdraw(300); 
+            for(Account b:a) System.out.println(b); 
+
         }
     }
     class Person {
         private final String firstname;
         private final String lastname;  
-
     }
 
 Netbeans app -- download and setup in progress 
+
+avoid any overrideable methods 
+
 
 
 */
