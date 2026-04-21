@@ -210,7 +210,14 @@ Strings in java are objects that are bacled internally by a char array
         
         a default constructor shall have no parameters 
             therefore use keyword "extend" 
+*/
 
+/*
+class 21 April 2026 
+
+added a new public classes 
+    - new account.java file in folder 
+    - 
 
 
 */
