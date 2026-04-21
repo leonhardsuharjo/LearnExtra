@@ -215,9 +215,49 @@ Strings in java are objects that are bacled internally by a char array
 /*
 class 21 April 2026 
 
-added a new public classes 
-    - new account.java file in folder 
-    - 
+Why use "override" explicitly = it will ask to the compiler to check if it is really doing overriding 
+    error at compile time is easier to be solved than the ones on run time
+
+
+new changes to code java folder 
+    # new "account.java" file in folder
+    public account (int id, String type, Person holder) {}
+        public Account(int id, String type, Person holder, float balance) {}   
+        public float getBalance() {return balance;}
+        public void setBalance(float b) {}
+        public int getId() {return id;}
+        public String getType(){}
+        public Person getHolder() {}
+        public static int getCounter {return Counter;}
+        public void withdraw(float s){
+              if (balance>s) balance=s; 
+              else System.out.println("not enough money" + getBalance() + " to withdraw" + s)
+          }
+        public void deposit(float s){
+          if (s > 0) balance +=s; 
+          else System.out.println("wrong deposit")
+      }
+
+    # new "App.java" file in folder 
+    public class App {
+        public static void main(String[], args) {
+            Account a; 
+            Scanner in; 
+
+            System.out.println("insert holder first and last name and id"); 
+            Person p=new Person(in.next(), in.next(), in.nextInt()); 
+            System.out.println("insert account id and type  "); 
+            a=new Account (in.nextInt(), in.next(), p); 
+            System.out.println(a); 
+        }
+    }
+    class Person {
+        private final String firstname;
+        private final String lastname;  
+
+    }
+
+Netbeans app -- download and setup in progress 
 
 
 */
