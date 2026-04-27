@@ -40,3 +40,14 @@ The 4 big key concepts OOP = Encapsulation, Inheritance, Polymorphism, Abstracti
             the second "inventory"
 
     things like ".addItem()" are built-in 
+    
+    - we are NOT supposed to write parameter's variable manually in Java (in fact we shouldnt write it), as it will be automatically known 
+        ![alt text](image.png)
+
+2. Inheritance
+    - public class Fruit extends Item = 
+        Item is supercalss, Fruit is the subclass to Item, Fruit inherits all methods in Item as its own,, therefore no need to redefine 
+    
+    super(name, quantity); // pull in attributes that are inherited from superclass 
+
+CURRENT PROGRESS => minute 12:33 
