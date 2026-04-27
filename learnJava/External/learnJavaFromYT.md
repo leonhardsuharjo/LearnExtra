@@ -24,3 +24,9 @@ The 4 big key concepts OOP = Encapsulation, Inheritance, Polymorphism, Abstracti
         example = name2, name3, name4, etc. 
 
     make new inventory.java 
+
+    arrayList = specialized subset of non primitive data typee
+        array can string integer, but it cannot store object 
+        array is fixed 
+        array list is RESIZEABLE
+        array list CAN store object 
