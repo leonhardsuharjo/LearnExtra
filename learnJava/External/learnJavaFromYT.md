@@ -38,3 +38,5 @@ The 4 big key concepts OOP = Encapsulation, Inheritance, Polymorphism, Abstracti
         Example = Inventory inventory = new Inventory(); 
             the first "inventory" is the class name 
             the second "inventory"
+
+    things like ".addItem()" are built-in 
