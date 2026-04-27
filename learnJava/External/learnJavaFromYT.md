@@ -30,3 +30,11 @@ The 4 big key concepts OOP = Encapsulation, Inheritance, Polymorphism, Abstracti
         array is fixed 
         array list is RESIZEABLE
         array list CAN store object 
+    
+    constructor => public inventory 
+        allows to use the class template to make a new inventory object 
+
+    class != constructor 
+        Example = Inventory inventory = new Inventory(); 
+            the first "inventory" is the class name 
+            the second "inventory"
