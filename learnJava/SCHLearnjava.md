@@ -284,6 +284,7 @@ what to do in exam
     - if sales(>0) sales=s; //sales will be initiliazed to zero anyway in the end of the day by its initializer so no need to put if sales = 0 (minimize if conditions but take adv of the OOP behaviour)
     - first instruction of the construtor = calling antoher construtor, calling the superclass constructor (calling super without parameter implicitly)
       - chain of constructors calling each other so that if conditions are seperated into different constructors 
+        - the top constructor in the subclass will call the constructor in the superclass Implicitly
     - question of what is missing in the code 
     - no final or private because we are just defining a variable 
     - the problem of subtyping = 
@@ -291,6 +292,12 @@ what to do in exam
         if public superclass become a protected or private subclass, unless subtype is broken
     - elements belonging to a superclass that are defined private MUST use get() even if it is unheritted to a subclass
         for info hiding eng, never use protected, always use private 
+    - what will object do ? = will initialize all the attributes to their default Values 
+        what are default val = 0 or false (for boolean) for primitive type, null for reference type 
+            primitive = int, double, float, char, long, byte, boolean, short
+            reference = []
+
+Current progress => inheritance slides
 
 overriding example = 
     classOne (AttributeOne)
