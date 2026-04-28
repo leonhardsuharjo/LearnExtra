@@ -286,10 +286,16 @@ what to do in exam
       - chain of constructors calling each other so that if conditions are seperated into different constructors 
     - question of what is missing in the code 
     - no final or private because we are just defining a variable 
+    - the problem of subtyping = 
+        basecomission is subtype of commission == meaning the interface of base have to contain interface of commission
+        if public superclass become a protected or private subclass, unless subtype is broken
+    - elements belonging to a superclass that are defined private MUST use get() even if it is unheritted to a subclass
+        for info hiding eng, never use protected, always use private 
 
 overriding example = 
     classOne (AttributeOne)
     classOne (AttributeOne, AttributeTwo)
     classOne (AttributeOne, AttributeTwo, AttributeThree)
+
 
 */
