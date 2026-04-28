@@ -267,8 +267,29 @@ new changes to code java folder
 Netbeans app -- download and setup in progress 
 
 avoid any overrideable methods 
-
-
-
 */
 
+/* 
+class 28 April 2026 
+
+@override checks if overriding is properly done 
+
+Steps = 
+    1. define the variable 
+    2. do the "this.var = var" process 
+    3. do the getVar process for info hiding 
+    4. for each big classes made, each classes have thier own sub elements 
+
+what to do in exam 
+    - if sales(>0) sales=s; //sales will be initiliazed to zero anyway in the end of the day by its initializer so no need to put if sales = 0 (minimize if conditions but take adv of the OOP behaviour)
+    - first instruction of the construtor = calling antoher construtor, calling the superclass constructor (calling super without parameter implicitly)
+      - chain of constructors calling each other so that if conditions are seperated into different constructors 
+    - question of what is missing in the code 
+    - no final or private because we are just defining a variable 
+
+overriding example = 
+    classOne (AttributeOne)
+    classOne (AttributeOne, AttributeTwo)
+    classOne (AttributeOne, AttributeTwo, AttributeThree)
+
+*/
