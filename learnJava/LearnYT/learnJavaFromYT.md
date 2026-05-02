@@ -5,7 +5,7 @@ INSIGHTS vid 1 =
     - difference bween normal "print" and "println" => 
         suppose there is a loop to print char by char, print will print it in ONE line while println will print it in different new lines 
 
-## Continue 27 April -- YT learn OOP 
+## Continue 27 April,, 2 May -- YT learn OOP 
 
 The 4 big key concepts OOP = Encapsulation, Inheritance, Polymorphism, Abstraction
 
@@ -50,4 +50,15 @@ The 4 big key concepts OOP = Encapsulation, Inheritance, Polymorphism, Abstracti
     
     super(name, quantity); // pull in attributes that are inherited from superclass 
 
-CURRENT PROGRESS => minute 12:33 
+3. Polymorphism at runtime = 
+    - **override** and **overloading** is the property of polymorpism 
+        **RUNTIME poly **== dynamic,, acheived by **overriding** 
+            allow method to behave differently based on object that invokes it.
+    - **overload** happens at **compile** time 
+        meaning make bytecodes in the .class files, goes in the JVM, and then runs (RUNTIME) to get output
+    - **override** happens at **run** time
+
+4. Polymorphism at compile time
+    - done by OVERLOADING
+    - multiple methods at the same name that do different things and take different parameters
+
