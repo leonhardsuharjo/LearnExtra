@@ -57,8 +57,19 @@ The 4 big key concepts OOP = Encapsulation, Inheritance, Polymorphism, Abstracti
     - **overload** happens at **compile** time 
         meaning make bytecodes in the .class files, goes in the JVM, and then runs (RUNTIME) to get output
     - **override** happens at **run** time
+      allows for more flexibility
 
 4. Polymorphism at compile time
     - done by OVERLOADING
-    - multiple methods at the same name that do different things and take different parameters
+    - multiple methods at the same class with the same name but do different things and take different parameters
 
+5. Abstraction of classes and method = hiding complex implementation detail and show only essential features of an object, help reduce complexity and manage interaction at higher level 
+    - example => public astract class Item 
+      - after a class is made abstract, we can no longer use class item to create an object 
+      - an abstract method doesnt have to do/return anything 
+
+6. Abstraction by interface = 
+    - Interface is the opposite of class and methods 
+    - inheritting requires "super" keyword
+    - [class] implements [interface]
+      - usage != implement
