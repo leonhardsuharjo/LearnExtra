@@ -1,10 +1,13 @@
 ## Learn BASH script -- hackerrank 
 ## Last update = 6 sept
 
-/* 
-insights from 
+: << 'EOF'
 
-*/
+insights from learning 
+1. there is virtually no index positioning (tab) in bash code 
+
+-----
+EOF 
 
 
 
