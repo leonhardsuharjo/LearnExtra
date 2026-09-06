@@ -2,7 +2,7 @@
 ## Last update = 6 sept
 
 : << 'EOF'
-
+-----
 insights from learning 
 1. there is virtually no index positioning (tab) in bash code 
 
@@ -18,5 +18,7 @@ EOF
 #!/bin/bash 
 for (( i=1; i<=99; i+=2))
 do 
+    echo $i 
+done 
 
     
