@@ -5,6 +5,7 @@
 -----
 insights from learning 
 1. there is virtually no index positioning (tab) in bash code 
+2. always use $[varname] to input a variable to a ouput
 
 -----
 EOF 
@@ -26,4 +27,8 @@ read name
 echo "Welcome $name"
 
 ## q4
+for (( i = 1; i<=50 ;i+=1))
+do 
+    echo $i
+done 
     
