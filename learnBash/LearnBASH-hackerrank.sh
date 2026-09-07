@@ -27,7 +27,7 @@ done
 read name 
 echo "Welcome $name"
 
-## q4
+## q4 -- FOR condition 
 for (( i = 1; i<=50 ;i+=1))
 do 
     echo $i
@@ -43,7 +43,7 @@ echo $((x*y))
 echo $((x/y))
 
 
-## q6 -- identify bigger or less or equal 
+## q6 -- IF condition -- identify bigger or less or equal
 read X
 read Y  
 if ((X > Y)); then 
