@@ -58,4 +58,6 @@ else
     echo "X is equal to Y"
 fi
 
-## q7 
+## q7 -- use of CASE for multiple if at once -- read a SIngle Char, return if 
+read char
+case $char  
