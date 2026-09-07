@@ -33,6 +33,7 @@ do
     echo $i
 done 
 
+
 ## q5 -- process and print on same line 
 read x 
 read y 
