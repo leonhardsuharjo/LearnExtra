@@ -36,10 +36,10 @@ done
 ## q5 -- process and print on same line 
 read x 
 read y 
-echo $(x+y)
-echo $(x-y)
-echo $(x*y)
-echo $(x/y)
+echo $((x+y))
+echo $((x-y))
+echo $((x*y))
+echo $((x/y))
 
 
 
