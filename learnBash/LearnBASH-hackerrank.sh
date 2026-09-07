@@ -44,3 +44,6 @@ echo $((x/y))
 
 
 ## q6 -- identify bigger or less or equal 
+read X
+read Y  
+if (())
