@@ -10,6 +10,7 @@ insights from learning
 3. there is NO ";" at the end of line in bash 
 4. use "fi" at the end of if statement 
 5. use "done" at the end of for loop
+6. use esac at the end of 
 
 -----
 EOF 
@@ -60,4 +61,9 @@ fi
 
 ## q7 -- use of CASE for multiple if at once -- read a SIngle Char, return if 
 read char
-case $char  
+case $char in 
+    [Yy]) echo -e "YES";; #Yy means big Y and small y
+    [Nn]) echo -e "NO";;
+esac 
+
+
