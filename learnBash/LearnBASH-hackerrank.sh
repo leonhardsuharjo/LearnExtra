@@ -7,7 +7,9 @@ insights from learning
 1. there is virtually no index positioning (tab) in bash code 
 2. always use $[varname] to input a variable to a ouput
     - used for FORMATTED PRINT 
-3. there is NO ";
+3. there is NO ";" at the end of line in bash 
+4. 
+
 -----
 EOF 
 
@@ -50,7 +52,7 @@ read Y
 if ((X > Y)); then 
     echo "X is greater than Y"
 elif (( X < Y )); then
-    echo "Y is bigger than X"
+    echo "X is less than Y"
 else
-    echo "$X and $Y are equal"
+    echo "X is equal to Y"
 fi
