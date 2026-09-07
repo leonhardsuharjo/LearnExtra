@@ -6,7 +6,8 @@
 insights from learning 
 1. there is virtually no index positioning (tab) in bash code 
 2. always use $[varname] to input a variable to a ouput
-
+    - used for FORMATTED PRINT 
+3. there is NO ";
 -----
 EOF 
 
@@ -47,3 +48,4 @@ echo $((x/y))
 read X
 read Y  
 if ((X > Y)); then 
+    echo "X is greater than Y"
