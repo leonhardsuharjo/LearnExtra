@@ -13,7 +13,7 @@ EOF
 
 
 ## q1,, simple echo 
-echo
+echo "hello world"
 
 ## q2, simple loops in bash 
     ### task = use FOR loops to display ODD natural number from 1 to 99
