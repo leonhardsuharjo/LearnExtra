@@ -8,7 +8,8 @@ insights from learning
 2. always use $[varname] to input a variable to a ouput
     - used for FORMATTED PRINT 
 3. there is NO ";" at the end of line in bash 
-4. 
+4. use "fi" at the end of if statement 
+5. use "done" at the end of for loop
 
 -----
 EOF 
