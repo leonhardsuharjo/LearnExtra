@@ -57,3 +57,5 @@ elif (( X < Y )); then
 else
     echo "X is equal to Y"
 fi
+
+## q7 
