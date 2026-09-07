@@ -62,8 +62,11 @@ fi
 ## q7 -- use of CASE for multiple if at once -- read a SIngle Char, return if 
 read char
 case $char in 
-    [Yy]) echo -e "YES";; #Yy means big Y and small y
+    [Yy]) echo -e "YES";; #Yy means big Y and small y; 
+        # the ")" acts similarly to ":"
     [Nn]) echo -e "NO";;
 esac 
+
+# q8
 
 
