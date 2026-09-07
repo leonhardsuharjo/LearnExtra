@@ -42,4 +42,4 @@ echo $((x*y))
 echo $((x/y))
 
 
-
+## q6 -- identify bigger or less or equal 
