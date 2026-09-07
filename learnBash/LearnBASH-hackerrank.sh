@@ -50,7 +50,7 @@ read Y
 if ((X > Y)); then 
     echo "X is greater than Y"
 elif (( X < Y )); then
-    echo "$Y is bigger"
+    echo "Y is bigger than X"
 else
     echo "$X and $Y are equal"
 fi
