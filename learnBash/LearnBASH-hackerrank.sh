@@ -13,6 +13,7 @@ EOF
 
 
 ## q1,, simple echo 
+echo
 
 ## q2, simple loops in bash 
     ### task = use FOR loops to display ODD natural number from 1 to 99
@@ -32,5 +33,13 @@ do
     echo $i
 done 
 
-## q5 
+## q5 -- process and print on same line 
+read x 
+read y 
+echo $(x+y)
+echo $(x-y)
+echo $(x*y)
+echo $(x/y)
+
+
 
