@@ -89,7 +89,7 @@ else
     echo "SCALENE"
 fi
 
-## q9 ma
+## q9 read input char by char in one input line 
 
 
 
