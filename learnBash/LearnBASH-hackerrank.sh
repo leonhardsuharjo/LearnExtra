@@ -8,13 +8,17 @@ insights from learning
 2. always use $[varname] to input a variable to a ouput
     - used for FORMATTED PRINT 
 3. there is NO ";" at the end of line in bash 
-4. use "fi" at the end of IF statement 
+4. use "fi" at the end of IF statement
+    structure =>
+        if ((condition)); then 
+        fi
     q6
 5. use "done" at the end of FOR loop
     q4
 6. use esac at the end of CASE
     q7
 7. "read" is executed for every input LINE 
+8. 
 -----
 EOF 
 
@@ -76,7 +80,12 @@ read X
 read Y 
 read Z 
 
-if (( X == Y && ) )
+if (( X == Y && Y == Z )); then
+    echo "EQUILATERAL"
+elif (( X == Y || Y == Z || X == Z )); then
+    echo "ISOSCELES"
+else
+    echo "SCALENE"
 
 
 
