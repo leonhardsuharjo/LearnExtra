@@ -103,6 +103,7 @@ printf "%.3f\n" "$result" # round to 3 decimal places
 ## q10 -- given an KNOWN (first line) number N integers, computer average, round to 3 decimal place
     #The first line contains an integer N, Each of the following  lines contains a single integer.
 read N 
-sum=0
+sum=0 # sum counter 
+
 
 
