@@ -121,3 +121,4 @@ printf "%.3f\n" "$avg"
 
 ## q 11 -- make word art with bash (unrelated topic)
     # involve for loop and while loop, generate characters to a shape 
+    # IA
