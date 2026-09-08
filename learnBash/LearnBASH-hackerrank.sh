@@ -115,6 +115,6 @@ for ((i=0; i<N; i++)); do
     sum=$(echo "$sum + $num" | bc)
 done 
 
-avg=$(echo "scale=3; )
-
+avg=$(echo "scale=3; $sum / $n" | bc)
+printf "%.3f\n" "$avg" 
 
