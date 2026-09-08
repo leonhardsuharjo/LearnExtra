@@ -96,6 +96,6 @@ fi
     # sample output => 22.146
     # "bc" role => to do DECIMAL and exponent that normal bash cant do 
 read expr 
-result=$(echo "scale=10; &expr" | bc -1) # IMPORTANT in this line -> do not add any SPACE around "="
+result=$(echo "scale=10; $expr" | bc -l) # IMPORTANT in this line -> do not add any SPACE around "="
 printf "%.3f\n" "$result" 
 
