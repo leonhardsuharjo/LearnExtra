@@ -28,6 +28,10 @@ insights from learning
 10. printf in Bash doesnt have "()"
 11. do not add any SPACE around "=" in ANY case
 12. "i++" is acceptable format 
+
+freeacademy free course link for certificate=> 
+    https://freeacademy.ai/courses/interactive-bash-scripting
+
 -----
 EOF 
 
