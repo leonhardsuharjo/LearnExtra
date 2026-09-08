@@ -121,4 +121,47 @@ printf "%.3f\n" "$avg"
 
 ## q 11 -- make word art with bash (unrelated topic)
     # involve for loop and while loop, generate characters to a shape 
-    # IA
+    # AI generated solution for this question 
+#!/bin/bash
+# 63x100 grid, initialized to underscores
+declare -A grid
+ROWS=63
+COLS=100
+for (( i=0; i<ROWS; i++ )); do
+    for (( j=0; j<COLS; j++ )); do
+        grid[$i,$j]="_"
+    done
+done
+
+# Recursively draw trunk + two branches, halving length each level
+draw() {
+    local depth=$1 length=$2 r=$3 c=$4
+    (( depth == 0 )) && return
+
+    # Draw vertical trunk going up from row r
+    for (( i=1; i<=length; i++ )); do
+        grid[$((r-i)),$c]="1"
+    done
+
+    # Draw the left and right diagonal branches from top of trunk
+    for (( i=1; i<=length; i++ )); do
+        grid[$((r-length-i)),$((c-i))]="1"
+        grid[$((r-length-i)),$((c+i))]="1"
+    done
+
+    # Recurse on left and right sub-trees, half length, from new tips
+    draw $((depth-1)) $((length/2)) $((r-2*length)) $((c-length))
+    draw $((depth-1)) $((length/2)) $((r-2*length)) $((c+length))
+}
+
+read n
+draw "$n" 16 "$ROWS" $((COLS/2 - 1))
+
+# Print the grid
+for (( i=0; i<ROWS; i++ )); do
+    line=""
+    for (( j=0; j<COLS; j++ )); do
+        line+="${grid[$i,$j]}"
+    done
+    echo "$line"
+done
