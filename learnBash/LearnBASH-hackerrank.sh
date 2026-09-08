@@ -107,14 +107,14 @@ printf "%.3f\n" "$result" # round to 3 decimal places
 
 ## q10 -- given an KNOWN (first line) number N integers, computer average, round to 3 decimal place
     #The first line contains an integer N, Each of the following  lines contains a single integer.
-read N 
+read n 
 sum=0 # sum counter 
 
-for ((i=0; i<=N; i++)); do 
+for ((i=0; i<=n; i++)); do 
     read num #read each line in each iteration 
     sum=$((sum + num)) # bc (if used) handles decimal division so decimal are NOT truncated 
 done 
 
-avg=$(echo "scale=3; $sum / $n" | bc)
+avg=$(echo "scale=10; $sum / $n" | bc) # before cause of error is bcs the n shoudl ve been N
 printf "%.3f\n" "$avg" 
 
