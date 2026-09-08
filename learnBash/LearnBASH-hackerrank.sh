@@ -89,8 +89,9 @@ else
     echo "SCALENE"
 fi
 
-## q9 read input char by char in one input line 
-
-
-
+## q9 read input char by char in one input line (basically a long mixed operation counting) -- but NOT using LOOP but using "bc" statement 
+    # sample input = (-105.5*7+50*3)/20 + (19^2)/7
+    # sample output = 22.146
+read expr 
+result = $(echo "scale=10; &expr )
 
