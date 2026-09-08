@@ -19,8 +19,9 @@ insights from learning
     q7
 7. "read" is executed for every input LINE 
 8. "OR" in bash == "||" 
-9. 
-
+9. "bc" role => to do DECIMAL and exponent that normal bash cant do 
+    q9
+10. 
 -----
 EOF 
 
