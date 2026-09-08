@@ -100,7 +100,8 @@ read expr
 result=$(echo "scale=10; $expr" | bc -l) # IMPORTANT in this line -> do not add any SPACE around "="
 printf "%.3f\n" "$result" # round to 3 decimal places 
 
-## q10 -- given an UNKNOWN number N integers, computer average, round to 3 decimal place
+## q10 -- given an KNOWN (first line) number N integers, computer average, round to 3 decimal place
 read N 
 sum=0
-for (N = 1)
+
+
