@@ -75,7 +75,7 @@ case $char in
     [Nn]) echo -e "NO";;
 esac 
 
-# q8 -- triangle scalene, isosceles, or equilateral
+## q8 -- triangle scalene, isosceles, or equilateral
 # to print welcome text and accept input at the SAME time => read X
 read X 
 read Y 
@@ -87,6 +87,10 @@ elif (( X == Y || Y == Z || X == Z )); then
     echo "ISOSCELES"
 else
     echo "SCALENE"
+fi
+
+## q9 ma
+
 
 
 
