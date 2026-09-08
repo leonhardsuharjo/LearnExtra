@@ -118,3 +118,6 @@ done
 avg=$(echo "scale=10; $sum / $n" | bc) # before cause of error is bcs the n shoudl ve been N
 printf "%.3f\n" "$avg" 
 
+
+## q 11 -- make word art with bash (unrelated topic)
+    # involve for loop and while loop, generate characters to a shape 
