@@ -14,7 +14,7 @@ insights from learning
     q4
 6. use esac at the end of CASE
     q7
-
+7. "read" is executed for every input LINE 
 -----
 EOF 
 
@@ -70,6 +70,8 @@ case $char in
     [Nn]) echo -e "NO";;
 esac 
 
-# q8
-
+# q8 -- triangle scalene, isosceles, or equilateral
+read X 
+read Y 
+read Z 
 
