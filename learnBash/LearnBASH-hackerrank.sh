@@ -22,7 +22,7 @@ insights from learning
 9. "bc" role => to do DECIMAL and exponent that normal bash cant do 
     q9
 10. printf in Bash doesnt have "()"
-11. do not add any SPACE around "="
+11. do not add any SPACE around "=" in ANY case 
 -----
 EOF 
 
@@ -105,5 +105,6 @@ printf "%.3f\n" "$result" # round to 3 decimal places
 read N 
 sum=0 # sum counter 
 
+for ((i=0))
 
 
