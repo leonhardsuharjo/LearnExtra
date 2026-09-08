@@ -111,5 +111,6 @@ read N
 sum=0 # sum counter 
 
 for ((i=0; i<N; i++)); do 
+    read num #read each line in each iteration 
 
 
