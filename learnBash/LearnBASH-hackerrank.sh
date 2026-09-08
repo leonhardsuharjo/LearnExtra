@@ -112,7 +112,7 @@ sum=0 # sum counter
 
 for ((i=0; i<=N; i++)); do 
     read num #read each line in each iteration 
-    sum=$(echo "$sum + $num" | bc)
+    sum=$((sum + num)) # bc (if used) handles decimal division so decimal are NOT truncated 
 done 
 
 avg=$(echo "scale=3; $sum / $n" | bc)
