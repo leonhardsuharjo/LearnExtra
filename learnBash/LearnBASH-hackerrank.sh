@@ -110,7 +110,7 @@ printf "%.3f\n" "$result" # round to 3 decimal places
 read N 
 sum=0 # sum counter 
 
-for ((i=0; i<N; i++)); do 
+for ((i=0; i<=N; i++)); do 
     read num #read each line in each iteration 
     sum=$(echo "$sum + $num" | bc)
 done 
