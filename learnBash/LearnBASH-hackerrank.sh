@@ -71,7 +71,10 @@ case $char in
 esac 
 
 # q8 -- triangle scalene, isosceles, or equilateral
+# into print welcome text and accept input at the SAME time 
 read X 
 read Y 
 read Z 
+
+
 
