@@ -14,6 +14,7 @@ insights from learning
         fi
     q6
 5. use "done" at the end of FOR loop
+    structure => 
     q4
 6. use esac at the end of CASE
     q7
@@ -106,6 +107,6 @@ printf "%.3f\n" "$result" # round to 3 decimal places
 read N 
 sum=0 # sum counter 
 
-for ((i=0; i<N; i++))
+for ((i=0; i<N; i++)); do 
 
 
