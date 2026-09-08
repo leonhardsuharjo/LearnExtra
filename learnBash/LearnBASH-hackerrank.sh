@@ -15,6 +15,7 @@ insights from learning
     q6
 5. use "done" at the end of FOR loop
     structure => 
+        for ((start; condition; iteration))
     q4
 6. use esac at the end of CASE
     q7
