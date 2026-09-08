@@ -21,7 +21,7 @@ insights from learning
 8. "OR" in bash == "||" 
 9. "bc" role => to do DECIMAL and exponent that normal bash cant do 
     q9
-10. 
+10. printf in Bash doesnt have "()"
 -----
 EOF 
 
@@ -97,4 +97,5 @@ fi
     # "bc" role => to do DECIMAL and exponent that normal bash cant do 
 read expr 
 result = $(echo "scale=10; &expr" | bc -1)
+printf "%.3f\n" "$result" 
 
