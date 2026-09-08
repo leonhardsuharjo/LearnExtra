@@ -18,7 +18,8 @@ insights from learning
 6. use esac at the end of CASE
     q7
 7. "read" is executed for every input LINE 
-8. 
+8. "OR" in bash == "||" 
+
 -----
 EOF 
 
