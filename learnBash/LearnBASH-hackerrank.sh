@@ -97,5 +97,8 @@ fi
     # "bc" role => to do DECIMAL and exponent that normal bash cant do 
 read expr 
 result=$(echo "scale=10; $expr" | bc -l) # IMPORTANT in this line -> do not add any SPACE around "="
-printf "%.3f\n" "$result" 
+printf "%.3f\n" "$result" # round to 3 decimal places 
 
+## q10 -- given an UNKNOWN number N integers, computer average, round to 3 decimal place
+read N 
+for (N = 1)
