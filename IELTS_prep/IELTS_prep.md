@@ -32,6 +32,8 @@ Priority to improve =>
 Pattern => 
     section 1 = 20 minutes 
 
+Personal questions => 
+    - can outer topics that are connected to the theme of the picture be included in text
 
 ## PRACTICE 1 -- write at least 150 words = 
 source = https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test 
@@ -45,7 +47,9 @@ source = https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-
 #### q1C ![alt text](image-2.png) 
 - question about brick manufacturing 
 - personal main observations => 
-    - pict shows steps of Manufacturing 
+    - pict shows steps of Manufacturing for building industry 
+    - there are 7 main steps 
+    -  
 Brick Manufacturing 
 The process by which bricks  
 
