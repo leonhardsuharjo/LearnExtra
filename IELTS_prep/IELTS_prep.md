@@ -72,7 +72,7 @@ Then the *humps* are placed on a metal grid, in order to break up the big *chunk
 
 Sand and water are added to make a homogenous mixture, which is then either formed in moulds or cut into brick-shaped pieces *by means* of a wire cutter.
 
-These fresh bricks are then kept in a drying oven for at least 24 and a maximum of 48 hours, several dozens if not hundreds of bricks at a time. //long connected sentence//
+These fresh bricks are then kept in a drying oven for at least 24 and a maximum of 48 hours, several dozens if not hundreds of bricks at a time. //long connected sentence// The dried bricks are then transferred to a so-called kiln, another type 
 
 
 
