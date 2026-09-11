@@ -57,12 +57,12 @@ source = https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-
       - drying oven with its period of hours
       - cooling phase consisting of chamber and kiln with various temp
         - kiln = insulated oven that reach high temp to dry material without fully melting them  
-      - packaging
+      - packaging using boxes structure
       - delivery using truck 
 
 - sample score 8.5 
 Brick Manufacturing 
-The process by which bricks  
+The process by which bricks are manufactured for the building industry  
 
 
 
