@@ -51,13 +51,15 @@ source = https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-
     - pict shows steps of Brick Manufacturing for building industry 
       - meaning the specific steps of MAKE A BRICK
     - there are 7 main steps seen  
-      - digger
-      - metal grid -- then using sand and water
+      - digger vehicle digging clay
+      - metal grid - then using sand and water
       - (two options), Wire cutter or Mould
       - drying oven
-      - cooling phase consisting of chamber and kiln 
+      - cooling phase consisting of chamber and kiln with various temp
         - kiln = insulated oven that reach high temp to dry material without fully melting them  
-    - packagin
+      - packaging
+      - delivery 
+         
 Brick Manufacturing 
 The process by which bricks  
 
