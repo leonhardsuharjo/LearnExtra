@@ -39,6 +39,7 @@ Personal questions =>
     - how to ellaborate a simple looking graph given some questions are just a simple graph and some is more ellaborate-able
 
 Main insight => 
+    - dont copy paste the text wording from question
     - third person view for opening, dont address graph directly, but from the perspective of the information itself
 
 
