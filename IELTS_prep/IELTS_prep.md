@@ -34,9 +34,11 @@ Pattern =>
     section 1 = 
         20 minutes
         write at least 150 words
+        given graph or image
     section 2 = 
         40 mins 
         at least 250 words
+        given a statement to write around that topic
 
 Personal questions => 
     - can outer topics that are connected to the theme of the picture be included in text? 
