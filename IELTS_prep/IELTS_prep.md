@@ -55,7 +55,7 @@ source = https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-
       - metal grid -- then using sand and water
       - (two options), Wire cutter or Mould
       - cooling phase consisting of chamber and kiln 
-        - kiln =  
+        - kiln = insulated oven that reach high temp to dry material without fully melting them 
     - 
 Brick Manufacturing 
 The process by which bricks  
