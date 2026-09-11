@@ -33,7 +33,7 @@ Priority to improve =>
 Pattern => 
     section 1 = 
         20 minutes
-        write at least 150 words
+        at least 150 words
         given graph or image
     section 2 = 
         40 mins 
@@ -101,5 +101,5 @@ Once the bricks have cooled down and *have* become hard, they get packaged and d
     - on one hand, although children from pverty technicaly face more life challenge, it dont necessarily mean they have more knowledge 
     - it depends on how "problems of adult life" is defined, does it refer to business problem (rich kid advantage) or more of a mental strength (ambiguous, favoring in poverty kid)
 
-- sample answer => 
-
+- sample answer - score 8.5 => 
+I do *agree* //agree scenario// to the 
