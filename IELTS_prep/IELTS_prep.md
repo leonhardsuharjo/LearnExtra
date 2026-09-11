@@ -46,7 +46,7 @@ Personal questions =>
     - how to ellaborate a simple looking graph given some questions are just a simple graph and some is more ellaborate-able
 
 Main insight => 
-    - dont copy paste the text wording from question
+    - dont copy paste the text wording from question (ambigious)
     - third person view for opening, dont address graph directly, but from the perspective of the information itself
 
 
@@ -102,4 +102,6 @@ Once the bricks have cooled down and *have* become hard, they get packaged and d
     - it depends on how "problems of adult life" is defined, does it refer to business problem (rich kid advantage) or more of a mental strength (ambiguous, favoring in poverty kid)
 
 - sample answer - score 8.5 => 
-I do *agree* //agree scenario// to the statement that children brought up in poor families 
+I do *agree* //agree scenario// to the statement that children brought up in poor families are better prepared to deal with the problems of adult life than children brought up by wealthy parents. //directly state the DECISION of AGREE/disagree// 
+
+Children of poor parents are 
