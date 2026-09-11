@@ -38,6 +38,10 @@ Personal questions =>
     - how to start text template
     - how to ellaborate a simple looking graph given some questions are just a simple graph and some is more ellaborate-able
 
+Main insight => 
+    - third person view for opening, dont address graph directly, but from the perspective of the information itself
+
+
 ## PRACTICE 1 -- write at least 150 words = 
 source = https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test 
     -[to be done AFTER learning some sample]
@@ -65,7 +69,7 @@ source = https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-
 - sample score 8.5 
 Brick Manufacturing 
 
-The process by which bricks are manufactured for the building industry  can be outlined in seven consecutive steps. //*main idea of graph*// 
+The process by which bricks are manufactured for the building industry  can be outlined in seven consecutive steps. //*main idea of graph*,, address from third person view// 
 
 First the raw material, clay, which lies just below the surface of soil in certain clay-rich areas has to be dug by a digger. 
 
@@ -75,7 +79,7 @@ Sand and water are added to make a homogenous mixture, which is then either form
 
 These fresh bricks are then kept in a drying oven for at least 24 and a maximum of 48 hours, several dozens if not hundreds of bricks at a time. //long connected sentence// The dried bricks are then transferred to a so-called kiln, another type of high temperature oven. First they are kept at a moderate temperature of 200-980 C, then at a high temperature of 870 C. This process is followed by cooling down the finished bricks for 48 to 72 hours in a cooling chamber. 
 
-Once 
+Once the bricks have cooled down and *have* become hard, they get packaged and delivered to their final destination *be it a* building site or storage.
 
 
 
