@@ -38,7 +38,7 @@ Pattern =>
     section 2 = 
         40 mins 
         at least 250 words
-        given a statement to write around that topic
+        - given a statement to write around that topic
 
 Personal questions => 
     - can outer topics that are connected to the theme of the picture be included in text? 
