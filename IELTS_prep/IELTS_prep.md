@@ -48,9 +48,13 @@ source = https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-
 #### q1C ![alt text](image-2.png) 
 - question about brick manufacturing 
 - personal main observations => 
-    - pict shows steps of Manufacturing for building industry 
+    - pict shows steps of Brick Manufacturing for building industry 
+        - meaning the 
     - there are 7 main steps seen  
-      - describe every step 
+      - digger
+      - metal grid
+      - Wire cutter
+    - 
 Brick Manufacturing 
 The process by which bricks  
 
