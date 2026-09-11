@@ -102,4 +102,4 @@ Once the bricks have cooled down and *have* become hard, they get packaged and d
     - it depends on how "problems of adult life" is defined, does it refer to business problem (rich kid advantage) or more of a mental strength (ambiguous, favoring in poverty kid)
 
 - sample answer - score 8.5 => 
-I do *agree* //agree scenario// to the 
+I do *agree* //agree scenario// to the statement that children brought up in poor families 
