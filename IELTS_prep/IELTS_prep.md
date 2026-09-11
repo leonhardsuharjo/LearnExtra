@@ -62,7 +62,7 @@ source = https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-
 
 - sample score 8.5 
 Brick Manufacturing 
-The process by which bricks are manufactured for the building industry  
+The process by which bricks are manufactured for the building industry  can be outlined in seven consecutive steps. //main idea of graph// First the raw material, clay, which lies just below 
 
 
 
