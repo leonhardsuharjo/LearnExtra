@@ -34,7 +34,9 @@ source = https://ielts.org/take-a-test/preparation-resources/sample-test-questio
 
 
 ## STUDY SAMPLE ANSWER -- study pattern
+source = https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf
 
+#### q1C ![alt text](image-2.png) 
+    - question about 
 
-q1 ![alt text](image-1.png)
 
