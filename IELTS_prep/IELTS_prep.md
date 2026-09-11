@@ -70,7 +70,7 @@ First the raw material, clay, which lies just below the surface of soil in certa
 
 Then the *humps* are placed on a metal grid, in order to break up the big *chunks* of clay into much smaller ones, which fall trhough the metal grid onto a roller, whose motion *segregates* the bits of clay. 
 
-Sand and water are added to make a homogenous mixture, which is 
+Sand and water are added to make a homogenous mixture, which is then either formed in moulds or cut into brick-shaped pieces *by means* of a wire cutter 
 
 
 
