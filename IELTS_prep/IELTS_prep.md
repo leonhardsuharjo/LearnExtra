@@ -58,7 +58,7 @@ source = https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-
       - cooling phase consisting of chamber and kiln with various temp
         - kiln = insulated oven that reach high temp to dry material without fully melting them  
       - packaging
-      - delivery 
+      - delivery using truck 
 
 - sample score 8.5 
 Brick Manufacturing 
