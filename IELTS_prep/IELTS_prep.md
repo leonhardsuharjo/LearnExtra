@@ -91,3 +91,9 @@ Once the bricks have cooled down and *have* become hard, they get packaged and d
 
 
 #### q2A ![alt text](image-3.png)
+- personal observation => 
+    - keywords = 
+        - children 
+        - who are from fam that doNOt have large amount of money
+        - better prepared to deal with problems of adult life 
+        - than children brought up to wealthy parents
