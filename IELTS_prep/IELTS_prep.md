@@ -44,6 +44,10 @@ source = https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-
 
 #### q1C ![alt text](image-2.png) 
 - question about brick manufacturing 
+- personal main observations => 
+    - pict shows steps of Manufacturing 
+Brick Manufacturing 
+The process by which bricks  
 
 
 
