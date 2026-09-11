@@ -73,7 +73,9 @@ Then the *humps* are placed on a metal grid, in order to break up the big *chunk
 
 Sand and water are added to make a homogenous mixture, which is then either formed in moulds or cut into brick-shaped pieces *by means* of a wire cutter.
 
-These fresh bricks are then kept in a drying oven for at least 24 and a maximum of 48 hours, several dozens if not hundreds of bricks at a time. //long connected sentence// The dried bricks are then transferred to a so-called kiln, another type of high temperature oven. First they are kept at a moderate temperature of 200-980 C, then at a high temperature of 870 C. This process is followed by cooling down 
+These fresh bricks are then kept in a drying oven for at least 24 and a maximum of 48 hours, several dozens if not hundreds of bricks at a time. //long connected sentence// The dried bricks are then transferred to a so-called kiln, another type of high temperature oven. First they are kept at a moderate temperature of 200-980 C, then at a high temperature of 870 C. This process is followed by cooling down the finished bricks for 48 to 72 hours in a cooling chamber. 
+
+Once 
 
 
 
