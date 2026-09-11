@@ -35,6 +35,8 @@ Pattern =>
         20 minutes
         write at least 150 words
     section 2 = 
+        40 mins 
+        at least 250 words
 
 Personal questions => 
     - can outer topics that are connected to the theme of the picture be included in text? 
