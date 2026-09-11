@@ -70,7 +70,9 @@ First the raw material, clay, which lies just below the surface of soil in certa
 
 Then the *humps* are placed on a metal grid, in order to break up the big *chunks* of clay into much smaller ones, which fall trhough the metal grid onto a roller, whose motion *segregates* the bits of clay. 
 
-Sand and water are added to make a homogenous mixture, which is then either formed in moulds or cut into brick-shaped pieces *by means* of a wire cutter.  
+Sand and water are added to make a homogenous mixture, which is then either formed in moulds or cut into brick-shaped pieces *by means* of a wire cutter.
+
+These fresh bricks are then kept in a drying oven for at least 24 and a maximum of 48 hours, several dozens if not hundreds of bricks at a time. //long connected sentence//
 
 
 
