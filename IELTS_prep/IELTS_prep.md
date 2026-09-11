@@ -36,6 +36,7 @@ Pattern =>
 Personal questions => 
     - can outer topics that are connected to the theme of the picture be included in text? 
     - how to start text template
+    - how to ellaborate a simple looking graph given some questions are just a simple graph and some is more ellaborate-able
 
 ## PRACTICE 1 -- write at least 150 words = 
 source = https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test 
@@ -72,7 +73,7 @@ Then the *humps* are placed on a metal grid, in order to break up the big *chunk
 
 Sand and water are added to make a homogenous mixture, which is then either formed in moulds or cut into brick-shaped pieces *by means* of a wire cutter.
 
-These fresh bricks are then kept in a drying oven for at least 24 and a maximum of 48 hours, several dozens if not hundreds of bricks at a time. //long connected sentence// The dried bricks are then transferred to a so-called kiln, another type 
+These fresh bricks are then kept in a drying oven for at least 24 and a maximum of 48 hours, several dozens if not hundreds of bricks at a time. //long connected sentence// The dried bricks are then transferred to a so-called kiln, another type of high temperature oven. First they are kept at a moderate temperature of 200-980 C, then at a high temperature of 870 C. This process is followed by cooling down 
 
 
 
