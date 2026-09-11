@@ -17,10 +17,10 @@ target =
 past score => 
     - test date = 6 august 2023
     - Score
-    - listening = 7.5 -- inc to 8
-    - reading = 8.5 -- maintain 
-    - writing = 7.0 -- inc to 8
-    - speaking = 6.5 -- inc to 7.5
+      - listening = 7.5 -- inc to 8
+      - reading = 8.5 -- maintain 
+      - writing = 7.0 -- inc to 8
+      - speaking = 6.5 -- inc to 7.5
 
 Priority to improve => 
     Speaking (already preimproved with )
