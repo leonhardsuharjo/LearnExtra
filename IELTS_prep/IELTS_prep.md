@@ -27,16 +27,24 @@ Priority to improve =>
     reading
     listening 
 
-## PRACTICE WRITING 1 -- write at least 150 words = 
+# WRITING SECTION 
+
+Pattern => 
+    section 1 = 20 minutes 
+
+
+## PRACTICE 1 -- write at least 150 words = 
 source = https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test 
     -[to be done AFTER learning some sample]
 
 
 
-## STUDY SAMPLE ANSWER -- study pattern
+### PRACTICE 2 SAMPLE ANSWER -- study pattern
 source = https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf
 
 #### q1C ![alt text](image-2.png) 
-    - question about 
+- question about brick manufacturing 
+
+
 
 
