@@ -33,7 +33,8 @@ Pattern =>
     section 1 = 20 minutes 
 
 Personal questions => 
-    - can outer topics that are connected to the theme of the picture be included in text
+    - can outer topics that are connected to the theme of the picture be included in text? 
+    - how to start text template
 
 ## PRACTICE 1 -- write at least 150 words = 
 source = https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test 
