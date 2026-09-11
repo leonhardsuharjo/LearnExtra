@@ -83,4 +83,4 @@ These fresh bricks are then kept in a drying oven for at least 24 and a maximum 
 Once the bricks have cooled down and *have* become hard, they get packaged and delivered to their final destination *be it a* building site or storage.
 
 
-
+#### q2A 
