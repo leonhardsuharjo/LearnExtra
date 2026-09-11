@@ -68,7 +68,9 @@ The process by which bricks are manufactured for the building industry  can be o
 
 First the raw material, clay, which lies just below the surface of soil in certain clay-rich areas has to be dug by a digger. 
 
-Then the *humps* are placed on a metal grid, in order to break up the big *chunks* of clay into much smaller ones, which fall trhough the metal grid onto a roller, whose motion segregates the bits 
+Then the *humps* are placed on a metal grid, in order to break up the big *chunks* of clay into much smaller ones, which fall trhough the metal grid onto a roller, whose motion *segregates* the bits of clay. 
+
+Sand and water are added to make a homogenous mixture, which is 
 
 
 
