@@ -28,8 +28,13 @@ Priority to improve =>
     listening 
 
 ## PRACTICE WRITING 1 -- write at least 150 words = 
-source = https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test --- [to be done AFTER learning some sample]
+source = https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test 
+    -[to be done AFTER learning some sample]
 
 
-## STUDY SAMPLE ANSWER -- study pattern 
+
+## STUDY SAMPLE ANSWER -- study pattern
+
+
+q1 ![alt text](image-1.png)
 
