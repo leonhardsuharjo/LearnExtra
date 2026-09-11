@@ -97,3 +97,9 @@ Once the bricks have cooled down and *have* become hard, they get packaged and d
         - who are from fam that doNOt have large amount of money
         - better prepared to deal with problems of adult life 
         - than children brought up to wealthy parents
+        - to what extent agree/disagree
+    - on one hand, although children from pverty technicaly face more life challenge, it dont necessarily mean they have more knowledge 
+    - it depends on how "problems of adult life" is defined, does it refer to business problem (rich kid advantage) or more of a mental strength (ambiguous, favoring in poverty kid)
+
+- sample answer => 
+
