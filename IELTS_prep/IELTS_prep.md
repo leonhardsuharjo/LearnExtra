@@ -31,7 +31,10 @@ Priority to improve =>
 # WRITING SECTION 
 
 Pattern => 
-    section 1 = 20 minutes 
+    section 1 = 
+        20 minutes
+        write at least 150 words
+    section 2 = 
 
 Personal questions => 
     - can outer topics that are connected to the theme of the picture be included in text? 
@@ -83,4 +86,4 @@ These fresh bricks are then kept in a drying oven for at least 24 and a maximum 
 Once the bricks have cooled down and *have* become hard, they get packaged and delivered to their final destination *be it a* building site or storage.
 
 
-#### q2A 
+#### q2A ![alt text](image-3.png)
