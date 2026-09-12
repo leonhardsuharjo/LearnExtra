@@ -49,6 +49,7 @@ Personal questions =>
 Main insight => 
     - dont copy paste the text wording from question (ambigious)
     - third person view for opening, dont address graph directly, but from the perspective of the information itself
+    - add counter idea in Q2, c
 
 
 ## PRACTICE 1 -- write at least 150 words = 
@@ -115,4 +116,4 @@ Children of poor families also are highly motivated. They tend to set high goals
 
 However, there are some problems //counter of writer opinion// from poor backgrounds do encounter. Many of those children who are 'robbed' of their childhood while working, may feel cheated. They often turn to crime. //weird idea// This however, is a small group. 
 
-*In summing up*, 
+*In summing up*, children with impoverished backgrounds are able to deal with problems of adult life because of early exposure, family role models, and sheer motivation. 
