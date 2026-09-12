@@ -108,4 +108,4 @@ I do *agree* //agree scenario// to the statement that children brought up in poo
 
 Children of poor parents are *prematurely* exposed to the problems of adult life eg. //weird word// learning to survive on a low family income and sacrificing luxuries for essential items. These children *begin* to see the 'realities' of life in their home or social environment. Their parents own struggles serve as an example to them. 
 
-These children are taught necessary skills for survival as an adult from a very early age. Many 
+These children are taught necessary skills for survival as an adult from a very early age. Many children eg //weird use of grammar// work in the weekends or holidays to either collect some pocket money or even contribute to their families' //use "'"// income. A good example is the many children who accompany their parents to sell products at the market. They are making a direct contribution
