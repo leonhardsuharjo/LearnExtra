@@ -49,7 +49,7 @@ Personal questions =>
 Main insight => 
     - dont copy paste the text wording from question (ambigious)
     - third person view for opening, dont address graph directly, but from the perspective of the information itself
-    - add counter idea in Q2, c
+    - add counter idea in Q2, meaning the CONS of the writer opinion and the Pros of the writer opposite idea
 
 
 ## PRACTICE 1 -- write at least 150 words = 
