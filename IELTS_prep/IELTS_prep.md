@@ -113,4 +113,6 @@ These children are taught necessary skills for survival as an adult from a very 
 
 Children of poor families also are highly motivated. They tend to set high goals to improve their economic and social situation. A relevant *example* would be Mr Bill Gates (founder of Microsoft Corporation). He had an impoverished background but he used his talent and motivation to set up the world's largest computer organization. 
 
-However, there are some problems //counter of writer opinion// from poor backgrounds do encounter. Many of those children who are 'robbed' of their childhood while working, may feel cheated. 
+However, there are some problems //counter of writer opinion// from poor backgrounds do encounter. Many of those children who are 'robbed' of their childhood while working, may feel cheated. They often turn to crime. //weird idea// This however, is a small group. 
+
+*In summing up*, 
