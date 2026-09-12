@@ -110,4 +110,6 @@ Children of poor parents are *prematurely* exposed to the problems of adult life
 
 These children are taught necessary skills for survival as an adult from a very early age. Many children eg //weird use of grammar// work in the weekends or holidays to either collect some pocket money or even contribute to their families' //use "'"// income. A good example is the many children who accompany their parents to sell products at the market. They are making a direct contribution to their families in terms of labour or income.
 
-Children of poor families also are highly motivated. They tend to set high goals to improve their economic and social situation. A relevant *example* would be Mr Bill Gates (founder of Microsoft Corporation). He had an impoverished background but he used his talent and motivation to set up the world's 
+Children of poor families also are highly motivated. They tend to set high goals to improve their economic and social situation. A relevant *example* would be Mr Bill Gates (founder of Microsoft Corporation). He had an impoverished background but he used his talent and motivation to set up the world's largest computer organization. 
+
+However, there are some problems 
