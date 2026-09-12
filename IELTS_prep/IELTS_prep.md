@@ -104,4 +104,6 @@ Once the bricks have cooled down and *have* become hard, they get packaged and d
 - sample answer - score 8.5 => 
 I do *agree* //agree scenario// to the statement that children brought up in poor families are better prepared to deal with the problems of adult life than children brought up by wealthy parents. //directly state the DECISION of AGREE/disagree// 
 
-Children of poor parents are *prematurely* exposed to the problems of adult life eg. learning to survive 
+Children of poor parents are *prematurely* exposed to the problems of adult life eg. //weird word// learning to survive on a low family income and sacrificing luxuries for essential items. These children *begin* to see the 'realities' of life in their home or social environment. Their parents own struggles serve as an example to them. 
+
+
