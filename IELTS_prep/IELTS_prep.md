@@ -42,6 +42,7 @@ Pattern =>
 
 Personal questions => 
     - can outer topics that are connected to the theme of the picture be included in text? 
+        - for Q2, yes;
     - how to start text template
     - how to ellaborate a simple looking graph given some questions are just a simple graph and some is more ellaborate-able
 
