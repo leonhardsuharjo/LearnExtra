@@ -100,10 +100,12 @@ Once the bricks have cooled down and *have* become hard, they get packaged and d
         - to what extent agree/disagree
     - on one hand, although children from pverty technicaly face more life challenge, it dont necessarily mean they have more knowledge 
     - it depends on how "problems of adult life" is defined, does it refer to business problem (rich kid advantage) or more of a mental strength (ambiguous, favoring in poverty kid)
+    - sample pov => 
+        - poor have more skills because they prioritize usage over luxury and they are more likely grind on life 
 
 - sample answer - score 8.5 => 
 I do *agree* //agree scenario// to the statement that children brought up in poor families are better prepared to deal with the problems of adult life than children brought up by wealthy parents. //directly state the DECISION of AGREE/disagree// 
 
 Children of poor parents are *prematurely* exposed to the problems of adult life eg. //weird word// learning to survive on a low family income and sacrificing luxuries for essential items. These children *begin* to see the 'realities' of life in their home or social environment. Their parents own struggles serve as an example to them. 
 
-
+These children are taught necessary skills for survival as an adult from a very early age. Many 
